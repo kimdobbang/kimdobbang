@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
-안녕하세요. 여기 뭐 별거는 없습니다!
-조금씩 채워나가야 할 곳이죠..ㅎㅎ
+안녕하세요. 아직 뭐 별거는 없습니다!
+
 
 🌱 I’m currently learning SW programming
 
