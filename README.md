@@ -1,4 +1,14 @@
-## Hi there 👋
+<div align="center">
+
+### Hi there 👋 
+
+안녕하세요. 아직 뭐 별거는 없습니다!
+
+🌱 I’m currently learning SW programming
+
+<li>SSAFY (삼성 청년 SW 아카데미) 11기</li>
+<li>홍익대학교 빅데이터 개발자 양성과정</li>
+</div>
 
 <!--
 **kimdobbang/kimdobbang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
