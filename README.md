@@ -7,7 +7,7 @@
 🌱 I’m currently learning SW programming
 <details>
 <summary>
-<span style="font-weight:bold">SSAFY 삼성 청년 SW 아카데미</span>
+<span>SSAFY 삼성 청년 SW 아카데미</span>
 </summary>
   <div> - 11기 : 2024.01 ~ </div>
   <div> - Coding Track 기본과정 수료 </div>
@@ -16,7 +16,7 @@
 
 <details>
 <summary>
-<span style="font-weight:bold">홍익대학교 빅데이터 개발자 양성과정</span>
+<span>홍익대학교 빅데이터 개발자 양성과정</span>
 </summary>
   <div> - 2기 : 2023.04 ~ 2023.11</div> 
 </details>
@@ -25,11 +25,11 @@
 ## Certificate
 <!-- > **Engineer information processing / 정보처리기사** -->
   <!-- <br>HR Development Service of Korea / 한국산업인력공단 -->
-**<a style="font-weight:bold" href="https://www.dataq.or.kr/www/sub/a_04.do">SQLD</a>**
+**<a href="https://www.dataq.or.kr/www/sub/a_04.do">SQLD</a>**
   <br>SQL Developer(SQL 개발자)
   <br>Kdata / 한국데이터산업진흥원
 
-<a style="font-weight:bold" href="https://www.dataq.or.kr/www/sub/a_06.do">ADSP</a>
+**<a style="font-weight:bold" href="https://www.dataq.or.kr/www/sub/a_06.do">ADSP</a>**
   <br>Advanced Data Analytics Semi-Professional(데이터분석준전문가)
   <br>Kdata / 한국데이터산업진흥원
 
