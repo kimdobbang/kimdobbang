@@ -25,7 +25,7 @@
 ## Certificate
 <!-- > **Engineer information processing / 정보처리기사** -->
   <!-- <br>HR Development Service of Korea / 한국산업인력공단 -->
-<a style="font-weight:bold" href="https://www.dataq.or.kr/www/sub/a_04.do">SQLD</a>
+**<a style="font-weight:bold" href="https://www.dataq.or.kr/www/sub/a_04.do">SQLD</a>**
   <br>SQL Developer(SQL 개발자)
   <br>Kdata / 한국데이터산업진흥원
 
