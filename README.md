@@ -1,6 +1,6 @@
 <div align = "center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Doi's%20GitHub%20&animation=twinkling&fontSize=37&fontAlignY=40&&height=200)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Doi's%20GitHub%20&animation=twinkling&fontSize=35&fontAlignY=40&&height=200)
 ### Hi there 👋 
 
 
@@ -25,11 +25,11 @@
 ## Certificate
 <!-- > **Engineer information processing / 정보처리기사** -->
   <!-- <br>HR Development Service of Korea / 한국산업인력공단 -->
-**<a href="https://www.dataq.or.kr/www/sub/a_04.do">SQLD</a>**
+**- <a href="https://www.dataq.or.kr/www/sub/a_04.do">SQLD</a>**
   <br>SQL Developer(SQL 개발자)
   <br>Kdata / 한국데이터산업진흥원
 
-**<a style="font-weight:bold" href="https://www.dataq.or.kr/www/sub/a_06.do">ADSP</a>**
+**- <a style="font-weight:bold" href="https://www.dataq.or.kr/www/sub/a_06.do">ADSP</a>**
   <br>Advanced Data Analytics Semi-Professional(데이터분석준전문가)
   <br>Kdata / 한국데이터산업진흥원
 
