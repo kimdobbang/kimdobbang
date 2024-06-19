@@ -1,20 +1,22 @@
 <div align = "center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Doi's%20GitHub%20&animation=twinkling&fontSize=35S&fontAlignY=40&&height=200)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Doi's%20GitHub%20&animation=twinkling&fontSize=37&fontAlignY=40&&height=200)
 ### Hi there 👋 
+
 
 🌱 I’m currently learning SW programming
 <details>
-<summary style="font-weight:bold">
-  SSAFY 삼성 청년 SW 아카데미
+<summary>
+<span style="font-weight:bold">SSAFY 삼성 청년 SW 아카데미</span>
+
 </summary>
   <div> - 11기 : 2024.01 ~ </div>
   <div> - Coding Track 기본과정 수료 </div>
   <br>
 </details>
 <details>
-<summary style="font-weight:bold">
-  홍익대학교 빅데이터 개발자 양성과정
+<summary>
+<span style="font-weight:bold">홍익대학교 빅데이터 개발자 양성과정</span>
 </summary>
   <div> - 2기 : 2023.04 ~ 2023.11</div> 
 </details>
