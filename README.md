@@ -25,11 +25,14 @@
 ## Certificate
 <!-- > **Engineer information processing / 정보처리기사** -->
   <!-- <br>HR Development Service of Korea / 한국산업인력공단 -->
-> **<a href="https://www.dataq.or.kr/www/sub/a_04.do">SQLD(SQL Developer) / SQL 개발자</a>**
-  <div>Kdata / 한국데이터산업진흥원</div>
-  
-> **ADSP(Advanced Data Analytics Semi-Professional) /  데이터분석준전문가**
+<a style="font-weight:bold" href="https://www.dataq.or.kr/www/sub/a_04.do">SQLD</a>
+  <br>SQL Developer(SQL 개발자)
   <br>Kdata / 한국데이터산업진흥원
+
+<a style="font-weight:bold" href="https://www.dataq.or.kr/www/sub/a_06.do">ADSP</a>
+  <br>Advanced Data Analytics Semi-Professional(데이터분석준전문가)
+  <br>Kdata / 한국데이터산업진흥원
+
 <br>
 
 ## Stacks
@@ -76,5 +79,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer&text=Thank%20You%20&animation=twinkling&fontSize=37&fontAlignY=70&&height=200)
 
 </div>
