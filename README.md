@@ -5,16 +5,15 @@
 
 🌱 I’m currently learning SW programming
 <details>
-<summary>
+<summary style="font-weight:bold">
   SSAFY 삼성 청년 SW 아카데미
 </summary>
-  <div> - 11기 : 2024.01 ~ </div> 
+  <div> - 11기 : 2024.01 ~ </div>
   <div> - Coding Track 기본과정 수료 </div>
   <br>
 </details>
-
 <details>
-<summary>
+<summary style="font-weight:bold">
   홍익대학교 빅데이터 개발자 양성과정
 </summary>
   <div> - 2기 : 2023.04 ~ 2023.11</div> 
