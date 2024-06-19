@@ -1,13 +1,13 @@
 <div align = "center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Doi's%20GitHub%20&animation=twinkling&fontSize=35&fontAlignY=40&&height=200)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Doi's%20GitHub%20&animation=twinkling&fontSize=36&fontAlignY=40&&height=200)
 ### Hi there 👋 
 
 
 🌱 I’m currently learning SW programming
 <details>
 <summary>
-<span>SSAFY 삼성 청년 SW 아카데미</span>
+<span style="font-weight:bold">SSAFY 삼성 청년 SW 아카데미</span>
 </summary>
   <div> - 11기 : 2024.01 ~ </div>
   <div> - Coding Track 기본과정 수료 </div>
@@ -16,7 +16,7 @@
 
 <details>
 <summary>
-<span>홍익대학교 빅데이터 개발자 양성과정</span>
+<span style="font-weight:bold">홍익대학교 빅데이터 개발자 양성과정</span>
 </summary>
   <div> - 2기 : 2023.04 ~ 2023.11</div> 
 </details>
@@ -25,14 +25,12 @@
 ## Certificate
 <!-- > **Engineer information processing / 정보처리기사** -->
   <!-- <br>HR Development Service of Korea / 한국산업인력공단 -->
-**- <a href="https://www.dataq.or.kr/www/sub/a_04.do">SQLD</a>**
-  <br>SQL Developer(SQL 개발자)
+
+> **SQLD(SQL Developer) / SQL 개발자**
   <br>Kdata / 한국데이터산업진흥원
 
-**- <a style="font-weight:bold" href="https://www.dataq.or.kr/www/sub/a_06.do">ADSP</a>**
-  <br>Advanced Data Analytics Semi-Professional(데이터분석준전문가)
+> **ADSP(Advanced Data Analytics Semi-Professional) /  데이터분석준전문가**
   <br>Kdata / 한국데이터산업진흥원
-
 <br>
 
 ## Stacks
@@ -40,6 +38,7 @@
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
+<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white">
 <img src="https://img.shields.io/badge/sqlite-003B57?style=flat-square&logo=sqlite&logoColor=white">
@@ -79,7 +78,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer&text=Thank%20You%20&animation=twinkling&fontSize=37&fontAlignY=70&&height=200)
-
-</div>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer&text=Thank%20You%20!&animation=twinkling&fontSize=36&fontAlignY=65&&height=200)
