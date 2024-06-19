@@ -1,10 +1,14 @@
 <div align = "center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Doi's%20GitHub%20&animation=twinkling&fontSize=36&fontAlignY=40&&height=200)
-### Hi there 👋 
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Doi's%20GitHub%20👋&animation=twinkling&fontSize=33&fontAlignY=35&&height=180)
+
+<a href="https://solved.ac/kimdobbang"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=kimdobbang"></a>
+<a href="mailto:kimdoi.dev@gmail.com"><img src="https://img.shields.io/badge/kimdoi.dev-EA4335?style=flat&logo=gmail&logoColor=white"></a>
+<!-- <a href="https://velog.io/@kimdoi/posts"><img src="https://img.shields.io/badge/doi-20C997?style=flat&logo=velog&logoColor=white"></a> -->
 
 
-🌱 I’m currently learning SW programming
+
+🌱  I’m currently learning SW programming
 <details>
 <summary>
 <span style="font-weight:bold">SSAFY 삼성 청년 SW 아카데미</span>
@@ -18,7 +22,11 @@
 <summary>
 <span style="font-weight:bold">홍익대학교 빅데이터 개발자 양성과정</span>
 </summary>
-  <div> - 2기 : 2023.04 ~ 2023.11</div> 
+  <div> - 2기 수료</div>
+  <div> - 교육 : 2023.04 ~ 2023.07</div>
+  <div> - 프로젝트 : 2023.07 ~ 2023.09</div>
+  <div> - 현장실습 : 2023.09 ~ 2023.11</div>
+  
 </details>
 <br> 
 
@@ -32,6 +40,11 @@
 > **ADSP(Advanced Data Analytics Semi-Professional) /  데이터분석준전문가**
   <br>Kdata / 한국데이터산업진흥원
 <br>
+
+## Project
+<li>ai컴퓨터비젼 객체탐지 프로젝트: 운전자 졸음운전 예방 시스템</li>
+- 
+
 
 ## Stacks
 #### Backend
@@ -52,17 +65,17 @@
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white">
 <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white">
 
-<!-- <br> -->
-
-<!-- ## Algorithm
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimdobbang)](https://solved.ac/kimdobbang) -->
-
 <br>
 
 ## Github Stats
 [![Github stats](https://github-readme-stats.vercel.app/api?username=kimdobbang&show_icons=true&include_all_commits=true)](https://github.com/kimdobbang/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimdobbang&layout=compact)](https://github.com/kimdobbang/github-readme-stats)
+
+<!-- <br> -->
+
+<!-- ## Algorithm
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimdobbang)](https://solved.ac/kimdobbang) -->
 
 <!--
 **kimdobbang/kimdobbang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
