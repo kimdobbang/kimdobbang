@@ -2,8 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Doi's%20GitHub%20👋&animation=twinkling&fontSize=33&fontAlignY=35&&height=180)
 
-<a href="https://solved.ac/kimdobbang"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=kimdobbang"></a>
-<a href="mailto:kimdoi.dev@gmail.com"><img src="https://img.shields.io/badge/kimdoi.dev-EA4335?style=flat&logo=gmail&logoColor=white"></a>
+<!-- <a href="https://solved.ac/kimdobbang"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=kimdobbang"></a> -->
+<!--<a href="mailto:kimdoi.dev@gmail.com"><img src="https://img.shields.io/badge/kimdoi.dev-EA4335?style=flat&logo=gmail&logoColor=white"></a> -->
 <!-- <a href="https://velog.io/@kimdoi/posts"><img src="https://img.shields.io/badge/doi-20C997?style=flat&logo=velog&logoColor=white"></a> -->
 
 
