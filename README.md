@@ -47,8 +47,8 @@
 <br> 
 
 ## 🏅 Certificate
-<!-- > **Engineer information processing / 정보처리기사** -->
-  <!-- <br>HR Development Service of Korea / 한국산업인력공단 -->
+**Engineer information processing / 정보처리기사**
+  <br>HR Development Service of Korea / 한국산업인력공단
 
 **SQLD(SQL Developer) / SQL 개발자**
   <br> _Kdata / 한국데이터산업진흥원_
