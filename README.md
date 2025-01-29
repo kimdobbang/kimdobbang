@@ -92,8 +92,7 @@
 ## **Experience**
 
 <blockquote style="color: gray; font-size: 0.9rem;">
-사회경험을 통해 효율적인 업무관리와 효과적인 의사소통방법을 고민 해왔습니다. 국가사업 관리와 감사대응 업무를 수행하며 문제 해결 능력을 키웠고, 크롤링을 활용한 데이터 수집을 통해 IT기술과 데이터가 의사결정에 미치는 영향을 이해하게 되었습니다. 또한 전국 단위 조직에서 업무경험을 통해 시스템 관리와 조직 내 협업의 중요성을 배웠습니다. 향후 데이터 기반으로 문제를 해결하는 개발자로 성장하고 싶습니다.
-</blockquote>
+사회경험을 통해 효율적인 업무관리와 효과적인 의사소통방법을 고민해왔습니다. 국가사업 관리와 감사대응 업무를 수행하며 문제 해결 능력을 키웠고, 크롤링을 활용한 데이터 수집을 통해 IT기술과 데이터가 의사결정에 미치는 영향을 이해하게 되었습니다. 또한 조직에서 업무경험을 통해 시스템 관리와 조직 내 협업의 중요성을 배웠습니다.</blockquote>
 <details>
   <summary><b>KDI 한국개발연구원</b> <span style="font-size: 0.85rem;">(2021.9 - 2023.3)</span></summary>
   <p style="font-size: 0.9rem; font-weight: bold;">Administration affairs, Communication</p>
