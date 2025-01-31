@@ -26,11 +26,19 @@
 
 <details>
 <summary>
+<span style="font-weight:bold">한국방송통신대학교 컴퓨터과학과 재학중</span>
+</summary>
+  <div> - 25.03 편입</div>
+  <br>
+</details>
+
+<details>
+<summary>
 <span style="font-weight:bold">SSAFY 삼성 청년 SW 아카데미</span>
 </summary>
-  <div> - 11기 Coding Track 수료 </div>
-  <div> - 1학기 SW역량 교육: 2024.01 ~ 2024.05 </div>
-  <div> - 2학기 실무 프로젝트: 2024.07 ~ 2024.11 </div>
+  <div> - 11기 Coding Track 수료</div>
+  <div> - 1학기 SW역량 교육: 2024.01 ~ 2024.06</div>
+  <div> - 2학기 실무 프로젝트: 2024.07 ~ 2024.12 </div>
   <br>
 </details>
 
@@ -133,7 +141,7 @@
 | **[캐치캐치! 시즌아레나](https://github.com/kimdobbang/Catch-SeasonArena)** | 각 사계절에 따른 자연물을 수집하고 실시간 배틀하는 모바일 도감 및 게임                    | FE           | 6    | 2024.08.19 ~ 2024.10.11 | 특화프로젝트 우수상(권역)                |
 | **[EVERSTAR](https://github.com/kimdobbang/EVER-STAR)**                     | 추모공간과 힐링퀘스트, 편지 작성을 통해 펫로스 증후군 극복 및 일상회복 지원 서비스        | BE           | 6    | 2024.07.08 ~ 2024.08.16 | 공통프로젝트 우수상(권역)                |
 | **[Finyam](https://github.com/kimdobbang/11finalPJT)**                      | 금융 데이터를 활용한 금융정보 통합플랫폼 웹 애플리케이션. 개인 맞춤형 서비스 제공         | BE & Data    | 3    | 2024.05.16 ~ 2024.05.24 | SSAFY 1학기 기말 프로젝트                |
-| **[AI 기반 실시간 졸음운전 예방 시스템]()**                                 | 실시간 컴퓨터 비전 객체 탐지 프로젝트                                                     | AI           | 4    | 2023.07.12 ~ 2023.09.11 | -                                        |
+| **[AI 기반 졸음운전 탐지](https://www.notion.so/doikim/ai-9af4778d9ec54fbfab017039e32343ec)**                                 | 실시간 컴퓨터 비전 객체 탐지 프로젝트                                                     | AI           | 4    | 2023.07.12 ~ 2023.09.11 | -                                        |
 
 ## ⚙️ Stacks
 
