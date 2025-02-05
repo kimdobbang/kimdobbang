@@ -1,16 +1,19 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Doi's%20GitHub%20👋&animation=twinkling&fontSize=33&fontAlignY=35&&height=180)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Doi's%20GitHub%20👋&animation=twinkling&fontSize=33&fontAlignY=35&&height=180) -->
 
 <!-- <a href="https://solved.ac/kimdobbang"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=kimdobbang"></a>
 <a href="mailto:kimdoi.dev@gmail.com"><img src="https://img.shields.io/badge/kimdoi.dev-EA4335?style=flat&logo=gmail&logoColor=white"></a>
 <a href="https://velog.io/@dobbang/posts"><img src="https://img.shields.io/badge/doi-20C997?style=flat&logo=velog&logoColor=white"></a> -->
 
-## 🌱 새로운 기술과 도전에 열려있는 개발자 김도이입니다
+## 🌱 기술적 도전을 즐기며 성장하고 있습니다. 
 
 <blockquote style="color: gray; font-size: 0.8rem;">
 사람과 정보를 연결하여 가치를 창출하는 데 매력을 느껴 미디어와 경영을 전공했습니다. 이후 사회생활을 하며 IT기술이 정보 전달과 비즈니스 가치 창출에 중요한 역할을 한다는 것을 깨달았고, 기술과 사람을 연결하는 개발자가 되기 위해 끊임없이 노력하고 있습니다.
-</blockquote>
+</br>다양한 기술을 빠르게 습득하여 프로젝트에 효과적으로 적용할 수 있습니다. 확장성과 유지보수에 효율적인 시스템 설계에 강점을 가지며, 백엔드 개발에 깊은 관심있습니다.
+SpringBoot를 중심으로, Redis를 활용한 인증 데이터 관리, JPA 기반의 객체 매핑, AWS 클라우드 네이티브 환경에서 개발 경험이 있습니다.
 
-- 개발 과정에서 항상 사용자의 입장을 우선적으로 고려합니다.
+또한, 백엔드뿐만 아니라 프론트엔드, 클라우드 등 다양한 개발 기술도 적극적으로 학습하여, 개발 역량을 넓혀가고 있습니다. 
+앞으로도 기술을 적극적으로 탐구하며, 끊임없이 성장하는 개발자가 되고 싶습니다.
+</blockquote>
 
 - 지금의 방법이 최선인지 끊임없이 고민하며 개선을 추구합니다.
 
