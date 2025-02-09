@@ -1,5 +1,5 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Doi's%20GitHub%20👋&animation=twinkling&fontSize=33&fontAlignY=35&&height=180) -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=7000&pause=3&color=222222&center=false&vCenter=false&repeat=true&width=1000&height=100&lines=안녕하세요,+도전을+즐기며+성장하는+김도이입니다.)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=7000&pause=3&color=222222&center=false&vCenter=false&repeat=true&width=1000&height=100&lines=안녕하세요,+도전을+즐기며+성장하는+김도이입니다.)](https://git.io/typing-svg) -->
 
 <!-- <a href="https://solved.ac/kimdobbang"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=kimdobbang"></a>
 <a href="mailto:kimdoi.dev@gmail.com"><img src="https://img.shields.io/badge/kimdoi.dev-EA4335?style=flat&logo=gmail&logoColor=white"></a>
