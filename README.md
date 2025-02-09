@@ -202,5 +202,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=7000&pause=3&color=222222&center=false&vCenter=false&repeat=true&width=1000&height=100&lines=Thank+You!)](https://git.io/typing-svg)
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer&text=Thank%20You%20!&animation=twinkling&fontSize=36&fontAlignY=65&&height=200)
