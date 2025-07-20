@@ -149,6 +149,16 @@
 
 <blockquote style="color: gray; font-size: 0.9rem;">
 사회경험을 통해 효율적인 업무관리와 효과적인 의사소통방법을 고민해왔습니다. 국가사업 관리와 감사대응 업무를 수행하며 문제 해결 능력을 키웠고, 크롤링을 활용한 데이터 수집을 통해 IT기술과 데이터가 의사결정에 미치는 영향을 이해하게 되었습니다. 또한 조직에서 업무경험을 통해 시스템 관리와 조직 내 협업의 중요성을 배웠습니다.</blockquote>
+
+<details>
+  <summary><b>카카오페이</b> <span style="font-size: 0.85rem;">(2025.4 - 재직중)</span></summary>
+  <p style="font-size: 0.9rem; font-weight: bold;">Tech Platform, SRE</p>
+  <ul>
+    <li>대고객 서비스 배포 및 운영</li>
+    <li>카카오페이 대고객 서비스의 안정적 운영을 위해, 빠르고 안정적인 SW 릴리즈 운영/관리/개발하는 것을 목표로 합니다. 개발팀과 협력하여, 배포 계획 수립부터 배포 수행까지 필요한 모든 단계의 개선을 위해 노력합니다. 또한, DevOps팀과의 협업을 통해 CI/CD 파이프라인 구축 및 배포 프로세스 개선에 힘쓰고 있습니다.</li>
+  </ul>
+</details>  
+
 <details>
   <summary><b>KDI 한국개발연구원</b> <span style="font-size: 0.85rem;">(2021.9 - 2023.3)</span></summary>
   <p style="font-size: 0.9rem; font-weight: bold;">Administration affairs, Communication</p>
@@ -175,7 +185,6 @@
     <li>건강보험 및 자격 부과 관련 업무</li>
     <li>보험료 재심사 및 국민 지원금 지급 심사</li>
     <li>기존 업무 흐름을 분석하고, 효율성을 높이기 위한 방안 도출</li>
-
   </ul>
 </details>  
 
