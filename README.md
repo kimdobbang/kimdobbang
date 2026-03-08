@@ -119,6 +119,9 @@
 
 ## ⚙️ Stacks
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimdobbang&layout=compact&count_private=true&cache_seconds=1800)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdobbang&show_icons=true&count_private=true)
+
 ### BE / Infra
 
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white"/> <img src="https://img.shields.io/badge/Django%20REST-092E20?style=flat-square&logo=django&logoColor=white"/> <!-- <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>  --><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=Redis&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
@@ -159,6 +162,15 @@
     <li>카카오페이 대고객 서비스의 안정적 운영을 위해, 빠르고 안정적인 SW 릴리즈 운영/관리/개발하는 것을 목표로 합니다. 개발팀과 협력하여, 배포 계획 수립부터 배포 수행까지 필요한 모든 단계의 개선을 위해 노력합니다. 또한, DevOps팀과의 협업을 통해 CI/CD 파이프라인 구축 및 배포 프로세스 개선에 힘쓰고 있습니다.</li>
   </ul>
 </details>  
+
+<details>
+  <summary><b>토스 러너스하이 2기 - Server </b> <span style="font-size: 0.85rem;">(2025.12 - 2026.01)</span></summary>
+  <p style="font-size: 0.9rem; font-weight: bold;">서버개발자 2기</p>
+  <ul>
+    <li>K8s Operator를 통한 MySQL운영 개선 </li>
+    <li>오퍼레이터 패턴 도입을 통한 아키텍처 개선 및 운영 효율화</li>
+  </ul>
+</details> 
 
 <details>
   <summary><b>KDI 한국개발연구원</b> <span style="font-size: 0.85rem;">(2021.9 - 2023.3)</span></summary>
